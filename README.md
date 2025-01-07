@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/e754610f-9b6d-486d-8972-ce755fcd8981)
+![image](https://github.com/user-attachments/assets/422bf1e5-9ae4-4954-8b6d-524cead06f55)
+![image](https://github.com/user-attachments/assets/49759085-f05e-4e2d-a311-f45a51785106)
 
 # interquartile-range-IQR-mean-absolute-deviation-MAD-range-mid-range
 Dataset: A CSV file with five columns: Date, Temperature (°C), Humidity (%), Wind Speed (km/h), and Precipitation (mm). The dataset contains 100 days of weather observations.
