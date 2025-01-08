@@ -4,7 +4,13 @@
     <img src="https://github.com/user-attachments/assets/422bf1e5-9ae4-4954-8b6d-524cead06f55" width="300" height="300" />
 </p>
 
-![image]()
+![image](https://github.com/user-attachments/assets/a149d11c-4eb3-4824-a529-c861a785dcc1)
+![image](https://github.com/user-attachments/assets/cb3fe704-a8b2-48c1-983f-55d3d898cc7c)
+![image](https://github.com/user-attachments/assets/985139a7-df97-4664-a41d-189490a2dbd2)
+![image](https://github.com/user-attachments/assets/6bc14520-b40d-4e72-afc0-3b220d26413e)
+![image](https://github.com/user-attachments/assets/0b6b8aee-dfc9-4399-8226-998150a4ef71)
+![image](https://github.com/user-attachments/assets/3d42f23b-b426-4d9a-9828-bc02c6462b39)
+
 
 # interquartile-range-IQR-mean-absolute-deviation-MAD-range-mid-range
 Dataset: A CSV file with five columns: Date, Temperature (°C), Humidity (%), Wind Speed (km/h), and Precipitation (mm). The dataset contains 100 days of weather observations.
